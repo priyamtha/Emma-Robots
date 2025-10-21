@@ -41,7 +41,7 @@ kaggle-hubspot/
 ### 1️⃣ Clone the repository
 
 bash
-git clone https://github.com/saiabishekpriyan/kaggle-hubspot.git
+git clone https://github.com/priyamtha/Emma-Robots
 cd kaggle-hubspot
 
 
@@ -188,8 +188,7 @@ This prevents sensitive data (like API keys) and build artifacts from being comm
 
 ## 🧑‍💻 Author
 
-*Sai Abishek Priyan*  
-📧 [GitHub Profile](https://github.com/saiabishekpriyan)
+priyamtha N
 
 ---
 
